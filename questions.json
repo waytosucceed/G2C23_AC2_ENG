@@ -1,0 +1,239 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "The dog wagged ___ tail.",
+        "options": [
+            "its",
+            "him",
+            "mine"
+        ],
+        "correct": 0,
+        "explanation": "We use 'its' to show something belongs to an animal or thing."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "___ am going to the park.",
+        "options": [
+            "Me",
+            "I",
+            "You"
+        ],
+        "correct": 1,
+        "explanation": "We use 'I' when talking about ourselves doing something."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "This book belongs to ___.",
+        "options": [
+            "she",
+            "her",
+            "my"
+        ],
+        "correct": 1,
+        "explanation": "We use 'her' to show something belongs to a girl."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "\"We\" is a personal pronoun.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'We' is a personal pronoun used for a group that includes the speaker."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "The toys are ___.",
+        "options": [
+            "they",
+            "them",
+            "theirs"
+        ],
+        "correct": 2,
+        "explanation": "'Theirs' shows that the toys belong to a group of people."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "___ are my best friends.",
+        "options": [
+            "They",
+            "Them",
+            "Their"
+        ],
+        "correct": 0,
+        "explanation": "'They' is used to talk about a group of people."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Choose the correct spelling. (An image of a doctor)",
+        "options": [
+            "Doktor",
+            "Doctur",
+            "Doctar",
+            "Doctor"
+        ],
+        "correct": 3,
+        "explanation": "The complete spelling is D-O-C-T-O-R. He/she is a person who treats people who are ill."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Is this ___ pencil? (you / your)",
+        "options": [
+            "you",
+            "your"
+        ],
+        "correct": 1,
+        "explanation": "'Your' is used to ask if something belongs to the person you're talking to."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "\"My\" is a possessive pronoun.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'My' shows that something belongs to the speaker."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "The ball is ___.",
+        "options": [
+            "me",
+            "mine",
+            "my"
+        ],
+        "correct": 1,
+        "explanation": "'Mine' shows that the ball belongs to the speaker."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "___ went to the store.",
+        "options": [
+            "Us",
+            "We",
+            "Our"
+        ],
+        "correct": 1,
+        "explanation": "'We' is used when a group of people, including the speaker, do something."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "This is ___ house.",
+        "options": [
+            "we",
+            "us",
+            "our"
+        ],
+        "correct": 2,
+        "explanation": "'Our' shows that the house belongs to a group including the speaker."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The bike is ___.",
+        "options": [
+            "he",
+            "him",
+            "his"
+        ],
+        "correct": 2,
+        "explanation": "'His' shows that the bike belongs to a boy."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "___ are playing together.",
+        "options": [
+            "They",
+            "Them",
+            "Their"
+        ],
+        "correct": 0,
+        "explanation": "'They' is used to talk about a group of people doing something."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "The cookies are for ___. (you / your)",
+        "options": [
+            "you",
+            "your"
+        ],
+        "correct": 0,
+        "explanation": "'You' is used when talking directly to someone."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "___ backpack is blue. (Her / She)",
+        "options": [
+            "Her",
+            "She"
+        ],
+        "correct": 0,
+        "explanation": "'Her' shows that the backpack belongs to a girl."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "\"Them\" is a personal pronoun.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'Them' is a personal pronoun used for a group of people."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "___ am happy today. (Me / I)",
+        "options": [
+            "Me",
+            "I"
+        ],
+        "correct": 1,
+        "explanation": "'I' is used when talking about yourself."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "These toys belong to ___.",
+        "options": [
+            "they",
+            "them",
+            "this"
+        ],
+        "correct": 1,
+        "explanation": "'Them' is used when something is for or about a group of people."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "___ are going to the zoo. (We / Our)",
+        "options": [
+            "We",
+            "Our"
+        ],
+        "correct": 0,
+        "explanation": "'We' is used when a group, including the speaker, is doing something."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "What did Tommy love to look at every evening?",
+        "options": [
+            "The clouds",
+            "The night sky",
+            "The sun",
+            "The birds"
+        ],
+        "correct": 1,
+        "explanation": "The story begins by saying, 'Tommy was a little boy who loved the night sky.' This tells us that Tommy enjoyed looking at the night sky."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "What did Tommy want to be when he grew up?",
+        "options": [
+            "A teacher",
+            "A doctor",
+            "An astronaut",
+            "A firefighter"
+        ],
+        "correct": 2,
+        "explanation": "In the story, Tommy tells his parents, 'I want to be an astronaut!' This shows his dream of exploring space."
+    }
+]
